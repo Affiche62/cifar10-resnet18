@@ -6,10 +6,10 @@ venv/
 __pycache__/
 *.pyc
 
-# 数据集文件夹 (太大了，不要传)
+# 数据集文件夹
 data/
 
-# 训练日志和模型存档 (太大了，不要传)
+# 训练日志和模型存档
 lightning_logs/
 checkpoints/
 *.ckpt
